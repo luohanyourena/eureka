@@ -1,4 +1,4 @@
 spring:
   profiles:
-    active: eureka2
+    active: eureka1
 
